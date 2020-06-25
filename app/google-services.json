@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162368461666",
+    "firebase_url": "https://dforum-1e0b5.firebaseio.com",
+    "project_id": "dforum-1e0b5",
+    "storage_bucket": "dforum-1e0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162368461666:android:1a0cd7ea37864d56e92a3b",
+        "android_client_info": {
+          "package_name": "com.example.dforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162368461666-7n70kmivmvrhqvi7aam6u22ta2i9b3tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dforum",
+            "certificate_hash": "16863ca5e312359b6275eea557fc205044c8c5e0"
+          }
+        },
+        {
+          "client_id": "162368461666-q6pjneh64383s11b7rnfj0jsm57fsrr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8XEbVxyC-PMZ1qX9zBwhfycZbBw7_Vhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162368461666-q6pjneh64383s11b7rnfj0jsm57fsrr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

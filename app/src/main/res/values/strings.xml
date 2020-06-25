@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DForum</string>
+    <string name="enterName">Enter Name</string>
+    <string name="submit1">Enter The Forum</string>
+</resources>
